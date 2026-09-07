@@ -4,6 +4,6 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
-dictionary:
-  wordlists:
+  dictionary:
+    wordlists:
     - .spellcheck-wordlist.txt
